@@ -2,7 +2,9 @@
 
 <h1>AeroAlpine</h1>
 
-<p>A Minecraft community building clients and mods together.</p>
+<p>A Minecraft community building clients and mods together.
+  Discord: https://discord.gg/cWn5PzKyMJ
+</p>
 
 </div>
 
